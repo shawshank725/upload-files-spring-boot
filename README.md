@@ -51,5 +51,4 @@ It supports uploading images and files directly to Cloudinary and returning thei
 
 ---
 
-## 📜 License
-This project is open-source and available under the MIT License.
+
